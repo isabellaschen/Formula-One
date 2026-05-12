@@ -1,4 +1,4 @@
-Final Project - Formula One
+# Final Project - Formula One
 
 By: Isabella Chen
 
